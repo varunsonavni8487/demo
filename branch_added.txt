@@ -1,0 +1,6 @@
+I have added the functionality without 
+changing the code of original branch and
+making a seperate branch called as file
+branch_added.
+
+Thanks for the time.
