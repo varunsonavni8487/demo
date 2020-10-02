@@ -3,3 +3,16 @@ These is version 1
 how are you 
 i m fine 
 very busy schedule todayy!
+
+git init
+
+git add .
+
+git commit -m "version 1"
+
+git branch -M main
+
+git remote add origin "link_of_repo"
+
+git push origin main
+
